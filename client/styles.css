@@ -1,0 +1,22 @@
+body {
+    background-color: green;
+    margin: 0;
+}
+#login {
+    background-color: greenyellow;
+    display: flex;
+    justify-items: center;
+    align-items : center;
+    justify-content: space-evenly;
+    height: 50px;
+    
+}
+.nav {
+
+  background-color: blue;
+  height: 200px;
+}
+
+#membersBody{
+  background-color: grey;
+}

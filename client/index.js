@@ -1,8 +1,8 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App.jsx';
+import Styles from './styles.css'
 
-function add(v){
-    return v+2;
-}
-console.log("merge conflict test");
 
-console.log('conflict resolved !')
 
+ReactDOM.render(<App />, document.getElementById("mainBody"));
